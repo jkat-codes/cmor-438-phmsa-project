@@ -8,6 +8,9 @@ Pipeline and Hazardous Materials Safety Administration regulates pipelines, over
 This Project in a Nutshell
 This project will acquire, analyze and train several different machine learning models/algorithms/frameworks to accurately identify the cause of pipeline issue(s). The pipelines that I am going to focus on transport Natural Gas. 
 
+Goal
+Use federal pipeline incident reports to predict why natural gas pipelines fail, using only information known when an incident is first reported. 
+
 3 Required Tasks
 Regression -> Target = log(prpty) the total incident cost
 Classification -> Target = CAUSE 8 different causes 
